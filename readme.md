@@ -1,2 +1,1 @@
-#Git Repository
-The repository create for git learn.
+#The repository is created for learn git
